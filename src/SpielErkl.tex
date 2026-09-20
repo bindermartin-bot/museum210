@@ -1,0 +1,24 @@
+\input BaTeX.tex
+
+\PapierGroesse(400pt,240pt)
+
+
+\begin{document}
+
+\baselineskip=13pt\parskip=4pt
+
+Im {\it Krypto-Spiel} sollen Sie einen Geheimtext entziffern.
+
+W"ahlen Sie den Schwierigkeitsgrad: 
+\vskip20pt
+\hskip200pt\vbox{\halign{%
+\hfill#\hfill&\qquad\hfill#\hfill\cr
+Die Korrektheit & Die Leerzeichen\cr
+wird angezeigt& erscheinen leer\cr
+\Gross\frb{jlaGruen}{$\checkmark$}&\Gross\frb{jlaGruen}{$\checkmark$}\vrule width0pt height30pt\cr
+\Gross\frb{jlaGruen}{$\checkmark$}&\Gross\frb{jlaRot}{$\mbf{\times}$}\vrule width0pt height30pt\cr
+\Gross\frb{jlaRot}{$\mbf{\times}$}&\Gross\frb{jlaGruen}{$\checkmark$}\vrule width0pt height30pt\cr
+\Gross\frb{jlaRot}{$\mbf{\times}$}&\Gross\frb{jlaRot}{$\mbf{\times}$}\vrule width0pt height30pt\cr
+}}
+ 
+\end{document}
