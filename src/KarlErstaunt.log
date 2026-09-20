@@ -1,0 +1,158 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=latex 2018.6.7)  18 MAY 2023 14:17
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**KarlErstaunt.tex
+(./KarlErstaunt.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/Users/michaelbarot/usr/texmf/tex/plain/BaTeX.tex
+(/Users/michaelbarot/usr/texmf/tex/plain/BBTeX.tex
+(/Users/michaelbarot/usr/texmf/tex/plain/latexplunder.cls
+\itfam=\mathgroup4
+\slfam=\mathgroup5
+\bffam=\mathgroup6
+\ttfam=\mathgroup7
+\pageno=\count80
+\headline=\toks14
+\footline=\toks15
+)
+(/Users/michaelbarot/usr/texmf/tex/plain/base/opt.tex) (/Users/michaelbarot/usr
+/texmf/tex/plain/base/rwk.tex
+\rw@z=\count81
+) (/Users/michaelbarot/usr/texmf/tex/plain/schrift/font.tex
+\mbffam=\mathgroup8
+\mbfsymfam=\mathgroup9
+\mbfsyxfam=\mathgroup10
+\ttglue=\skip41
+\schrift@nummer=\count82
+) (/Users/michaelbarot/usr/texmf/tex/plain/schrift/math.def) (/Users/michaelbar
+ot/usr/texmf/tex/plain/base/base.tex
+\kapitel@nr=\count83
+\sek@nr=\count84
+\subsek@nr=\count85
+\ssubsek@nr=\count86
+\abschn@nr=\count87
+) (/Users/michaelbarot/usr/texmf/tex/plain/base/dok.tex
+\label@art=\count88
+\ref@datei=\write3
+\toc@sep=\dimen102
+\toc@datei=\write4
+\hyp@z=\count89
+\fussnt@nr=\count90
+\tmp@fn=\count91
+\fnt@boxstufe=\count92
+) (/Users/michaelbarot/usr/texmf/tex/plain/ps+pdf/ps+pdf.tex (/Users/michaelbar
+ot/usr/texmf/tex/plain/ps+pdf/ps.tex
+\@datei=\read1
+)) (/Users/michaelbarot/usr/texmf/tex/plain/base/mac.tex
+\ttglue=\skip42
+) (/Users/michaelbarot/usr/texmf/tex/plain/base/list.tex
+\item@box=\box26
+\liste@indent=\dimen103
+\list@skip=\skip43
+\listen@nummer=\count93
+\listen@subnum=\count94
+\listen@nummer@box=\count95
+) (/Users/michaelbarot/usr/texmf/tex/plain/makros/pin.tex
+\pin@box=\box27
+) (/Users/michaelbarot/usr/texmf/tex/plain/schrift/AMSsymbole.tex
+\msafam=\mathgroup11
+\msbfam=\mathgroup12
+) (/Users/michaelbarot/usr/texmf/tex/plain/symb/krtsymb.tex) (/Users/michaelbar
+ot/usr/texmf/tex/plain/symb/pssymb.tex) (/Users/michaelbarot/usr/texmf/tex/plai
+n/symb/symb.tex
+\mrs@p=\box28
+\mrs@s=\box29
+\bs@p=\box30
+) (/Users/michaelbarot/usr/texmf/tex/plain/symb/antik.tex) (/Users/michaelbarot
+/usr/texmf/tex/plain/symb/musik.tex) (/Users/michaelbarot/usr/texmf/tex/plain/m
+akros/tafel.tex
+\tf@n=\count96
+\tf@bx=\count97
+\TA@num=\count98
+\tf@t=\toks16
+) (/Users/michaelbarot/usr/texmf/tex/plain/ps+pdf/psfig.tex
+\ps@z=\count99
+\psvar@a=\count100
+\ps@einheit=\dimen104
+\ps@gebct=\count101
+) (/Users/michaelbarot/usr/texmf/tex/plain/makros/abb.tex
+\bild@=\box31
+\bild@abb=\box32
+\Leg@=\box33
+\text@box=\box34
+\FGnummer=\count102
+\anz@gitterzeilen=\count103
+\text@breite=\dimen105
+\pruef@datei=\read2
+\anz@Haeuschen=\count104
+\gitter@wd=\dimen106
+\@pfad=\toks17
+\abbleg@toks=\toks18
+\gitter@dim=\dimen107
+) (/Users/michaelbarot/usr/texmf/tex/plain/ps+pdf/elem.tex
+\baum@box=\box35
+) (/Users/michaelbarot/usr/texmf/tex/plain/makros/math.tex
+\L@breite=\dimen108
+\L@flagge=\count105
+\GLnummer=\count106
+\pot@stufe=\count107
+\pot@rek@nr=\count108
+\pot@h=\dimen109
+) (/Users/michaelbarot/usr/texmf/tex/plain/makros/prgm.tex
+\cas@in=\count109
+\zeilen@nr=\count110
+\cb@rem=\box36
+\tab@zl@toks=\toks19
+)
+) (/Users/michaelbarot/usr/texmf/tex/plain/layout/aufBa.tex
+\AufgabeCount=\count111
+\aufindent=\dimen110
+\lsg@datei=\write5
+)
+(/Users/michaelbarot/usr/texmf/tex/plain/layout/cfgBa.tex
+(/Users/michaelbarot/usr/texmf/tex/plain/schrift/font-12pt.tex
+\ME=\dimen111
+Missing character: There is no I in font nullfont!
+)))
+No file KarlErstaunt.aux.
+\openout1 = `KarlErstaunt.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+\openout3 = `KarlErstaunt.ref'.
+
+
+**************************************
+ 
+ ACHTUNG: LATEX!!!!
+ 
+**************************************
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[1] (./KarlErstaunt.aux) ) 
+Here is how much of TeX's memory you used:
+ 3347 strings out of 492650
+ 32895 string characters out of 6129649
+ 191391 words of memory out of 5000000
+ 7075 multiletter control sequences out of 15000+600000
+ 111183 words of font info for 240 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 22i,7n,61p,347b,156s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on KarlErstaunt.dvi (1 page, 4088 bytes).
