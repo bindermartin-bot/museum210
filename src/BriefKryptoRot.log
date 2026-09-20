@@ -1,0 +1,118 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=etex 2018.6.7)  20 MAY 2023 12:44
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**BriefKryptoRot.tex
+(./BriefKryptoRot.tex (/Users/michaelbarot/usr/texmf/tex/plain/BaTeX.tex
+(/Users/michaelbarot/usr/texmf/tex/plain/BBTeX.tex
+(/Users/michaelbarot/usr/texmf/tex/plain/base/opt.tex) (/Users/michaelbarot/usr
+/texmf/tex/plain/base/rwk.tex
+\rw@z=\count27
+) (/Users/michaelbarot/usr/texmf/tex/plain/schrift/font.tex
+\mbffam=\fam8
+\mbfsymfam=\fam9
+\mbfsyxfam=\fam10
+\ttglue=\skip18
+\schrift@nummer=\count28
+) (/Users/michaelbarot/usr/texmf/tex/plain/schrift/math.def) (/Users/michaelbar
+ot/usr/texmf/tex/plain/base/base.tex
+\kapitel@nr=\count29
+\sek@nr=\count30
+\subsek@nr=\count31
+\ssubsek@nr=\count32
+\abschn@nr=\count33
+) (/Users/michaelbarot/usr/texmf/tex/plain/base/dok.tex
+\label@art=\count34
+\ref@datei=\write0
+\toc@sep=\dimen16
+\toc@datei=\write1
+\hyp@z=\count35
+\fussnt@nr=\count36
+\tmp@fn=\count37
+\fnt@boxstufe=\count38
+) (/Users/michaelbarot/usr/texmf/tex/plain/ps+pdf/ps+pdf.tex (/Users/michaelbar
+ot/usr/texmf/tex/plain/ps+pdf/ps.tex
+\@datei=\read1
+)) (/Users/michaelbarot/usr/texmf/tex/plain/base/mac.tex
+\ttglue=\skip19
+) (/Users/michaelbarot/usr/texmf/tex/plain/base/list.tex
+\item@box=\box16
+\liste@indent=\dimen17
+\list@skip=\skip20
+\listen@nummer=\count39
+\listen@subnum=\count40
+\listen@nummer@box=\count41
+) (/Users/michaelbarot/usr/texmf/tex/plain/makros/pin.tex
+\pin@box=\box17
+) (/Users/michaelbarot/usr/texmf/tex/plain/schrift/AMSsymbole.tex
+\msafam=\fam11
+\msbfam=\fam12
+) (/Users/michaelbarot/usr/texmf/tex/plain/symb/krtsymb.tex) (/Users/michaelbar
+ot/usr/texmf/tex/plain/symb/pssymb.tex) (/Users/michaelbarot/usr/texmf/tex/plai
+n/symb/symb.tex
+\mrs@p=\box18
+\mrs@s=\box19
+\bs@p=\box20
+) (/Users/michaelbarot/usr/texmf/tex/plain/symb/antik.tex) (/Users/michaelbarot
+/usr/texmf/tex/plain/symb/musik.tex) (/Users/michaelbarot/usr/texmf/tex/plain/m
+akros/tafel.tex
+\tf@n=\count42
+\tf@bx=\count43
+\TA@num=\count44
+\tf@t=\toks13
+) (/Users/michaelbarot/usr/texmf/tex/plain/ps+pdf/psfig.tex
+\ps@z=\count45
+\psvar@a=\count46
+\ps@einheit=\dimen18
+\ps@gebct=\count47
+) (/Users/michaelbarot/usr/texmf/tex/plain/makros/abb.tex
+\bild@=\box21
+\bild@abb=\box22
+\Leg@=\box23
+\text@box=\box24
+\FGnummer=\count48
+\anz@gitterzeilen=\count49
+\text@breite=\dimen19
+\pruef@datei=\read2
+\anz@Haeuschen=\count50
+\gitter@wd=\dimen20
+\@pfad=\toks14
+\abbleg@toks=\toks15
+\gitter@dim=\dimen21
+) (/Users/michaelbarot/usr/texmf/tex/plain/ps+pdf/elem.tex
+\baum@box=\box25
+) (/Users/michaelbarot/usr/texmf/tex/plain/makros/math.tex
+\L@breite=\dimen22
+\L@flagge=\count51
+\GLnummer=\count52
+\pot@stufe=\count53
+\pot@rek@nr=\count54
+\pot@h=\dimen23
+) (/Users/michaelbarot/usr/texmf/tex/plain/makros/prgm.tex
+\cas@in=\count55
+\zeilen@nr=\count56
+\cb@rem=\box26
+\tab@zl@toks=\toks16
+)
+) (/Users/michaelbarot/usr/texmf/tex/plain/layout/aufBa.tex
+\AufgabeCount=\count57
+\aufindent=\dimen24
+\lsg@datei=\write2
+)
+(/Users/michaelbarot/usr/texmf/tex/plain/layout/cfgBa.tex
+(/Users/michaelbarot/usr/texmf/tex/plain/schrift/font-12pt.tex
+\ME=\dimen25
+)))
+(./BriefKryptoRot.ref)
+\openout0 = `BriefKryptoRot.ref'.
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+
+\hbox(8.5+0.0)x51.0
+.\vbox(8.5+0.0)x0.0
+
+[1] )
+Output written on BriefKryptoRot.dvi (1 page, 4236 bytes).

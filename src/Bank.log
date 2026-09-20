@@ -1,0 +1,150 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=latex 2018.6.7)  1 OCT 2024 22:35
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**Bank.tex
+(./Bank.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/Users/michaelbarot/usr/texmf/tex/plain/BaTeX.tex
+(/Users/michaelbarot/usr/texmf/tex/plain/BBTeX.tex
+(/Users/michaelbarot/usr/texmf/tex/plain/latexplunder.cls
+\itfam=\mathgroup4
+\slfam=\mathgroup5
+\bffam=\mathgroup6
+\ttfam=\mathgroup7
+\pageno=\count80
+\headline=\toks14
+\footline=\toks15
+)
+(/Users/michaelbarot/usr/texmf/tex/plain/base/opt.tex) (/Users/michaelbarot/usr
+/texmf/tex/plain/base/rwk.tex
+\rw@z=\count81
+) (/Users/michaelbarot/usr/texmf/tex/plain/schrift/font.tex
+\mbffam=\mathgroup8
+\mbfsymfam=\mathgroup9
+\mbfsyxfam=\mathgroup10
+\ttglue=\skip41
+\schrift@nummer=\count82
+) (/Users/michaelbarot/usr/texmf/tex/plain/schrift/math.def) (/Users/michaelbar
+ot/usr/texmf/tex/plain/base/base.tex
+\kapitel@nr=\count83
+\sek@nr=\count84
+\subsek@nr=\count85
+\ssubsek@nr=\count86
+\abschn@nr=\count87
+) (/Users/michaelbarot/usr/texmf/tex/plain/base/dok.tex
+\label@art=\count88
+\ref@datei=\write3
+\toc@sep=\dimen102
+\toc@datei=\write4
+\hyp@z=\count89
+\fussnt@nr=\count90
+\tmp@fn=\count91
+\fnt@boxstufe=\count92
+) (/Users/michaelbarot/usr/texmf/tex/plain/ps+pdf/ps+pdf.tex (/Users/michaelbar
+ot/usr/texmf/tex/plain/ps+pdf/ps.tex
+\@datei=\read1
+)) (/Users/michaelbarot/usr/texmf/tex/plain/base/mac.tex
+\ttglue=\skip42
+\anz@Haeuschen=\count93
+\gitter@wd=\dimen103
+\anz@gitterzeilen=\count94
+\gitter@dim=\dimen104
+) (/Users/michaelbarot/usr/texmf/tex/plain/base/list.tex
+\item@box=\box26
+\liste@indent=\dimen105
+\list@skip=\skip43
+\listen@nummer=\count95
+\listen@subnum=\count96
+\listen@nummer@box=\count97
+) (/Users/michaelbarot/usr/texmf/tex/plain/makros/pin.tex
+\pin@box=\box27
+) (/Users/michaelbarot/usr/texmf/tex/plain/schrift/AMSsymbole.tex
+\msafam=\mathgroup11
+\msbfam=\mathgroup12
+) (/Users/michaelbarot/usr/texmf/tex/plain/symb/pssymb.tex) (/Users/michaelbaro
+t/usr/texmf/tex/plain/makros/tafel.tex
+\tf@n=\count98
+\tf@bx=\count99
+\TA@num=\count100
+\tf@t=\toks16
+) (/Users/michaelbarot/usr/texmf/tex/plain/ps+pdf/psfig.tex
+\ps@z=\count101
+\psvar@a=\count102
+\ps@einheit=\dimen106
+\ps@gebct=\count103
+) (/Users/michaelbarot/usr/texmf/tex/plain/makros/math.tex
+\L@breite=\dimen107
+\L@flagge=\count104
+\GLnummer=\count105
+\pot@stufe=\count106
+\pot@rek@nr=\count107
+\pot@h=\dimen108
+)
+) (/Users/michaelbarot/usr/texmf/tex/plain/makros/abb.tex
+\bild@=\box28
+\bild@abb=\box29
+\Leg@=\box30
+\text@box=\box31
+\FGnummer=\count108
+\text@breite=\dimen109
+\pruef@datei=\read2
+\@pfad=\toks17
+\abbleg@toks=\toks18
+)
+(/Users/michaelbarot/usr/texmf/tex/plain/layout/aufBa.tex
+\AufgabeCount=\count109
+\aufindent=\dimen110
+\lsg@datei=\write5
+)
+(/Users/michaelbarot/usr/texmf/tex/plain/layout/cfgBa.tex
+(/Users/michaelbarot/usr/texmf/tex/plain/schrift/font-12pt.tex
+\ME=\dimen111
+)))
+(/Users/michaelbarot/usr/texmf/tex/plain/module/ean.tex)
+(/Users/michaelbarot/usr/texmf/tex/plain/module/pstex.tex
+(/Users/michaelbarot/usr/texmf/tex/plain/logos.tex)
+\m@ustr=\box32
+) (./Bank.aux)
+\openout1 = `Bank.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+ (./Bank.ref)
+\openout3 = `Bank.ref'.
+
+
+
+**************************************
+ 
+ ACHTUNG: LATEX!!!!
+ 
+**************************************
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[1] (./Bank.aux) ) 
+Here is how much of TeX's memory you used:
+ 2915 strings out of 492650
+ 29219 string characters out of 6129649
+ 176147 words of memory out of 5000000
+ 6642 multiletter control sequences out of 15000+600000
+ 114317 words of font info for 250 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 24i,7n,61p,613b,302s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on Bank.dvi (1 page, 5632 bytes).

@@ -1,0 +1,41 @@
+\input BaTeX.tex
+
+\PapierGroesse(51.7pt,81.5pt)
+
+\begin{document}
+
+\overfullrule0pt
+\begin{psfigur}[clip=nein,rahmen=nein](50,80)
+\psPolygon[fuellfarbe=1:1:0.96](0,0)(50,0)(50,80)(0,80)%
+\psNeueSchicht
+\tpin(1,70){\mikro\tt 0110101}
+\tpin(1,60){\mikro\tt 0000010}
+\tpin(1,50){\mikro\tt 0111100}
+\tpin(1,40){\mikro\tt 1100110}
+\tpin(1,30){\mikro\tt 0111101}
+\tpin(1,20){\mikro\tt 1110110}
+\tpin(1,10){\mikro\tt 1101111}
+\psPin[alpha=45](25,40){%
+	\psPolygon[fuellfarbe=0.7,linienbreite=0.5pt](-60,-5)(60,-5)(60,5)(-60,5)%
+	\psManuell{
+		Schliesse
+		/fuellStil 1 def
+		/fuellFarbe 0.7 Grau def
+		/linienBreite 0.5 def
+		{
+			[8 5] [8 -3] [5 -7] [0 -10] Bezier
+			[-8 8] [8 8] 1 LinienZug
+			[0 -10] [-5 -7] [-8 -3] [-8 5] Bezier
+		} Weg
+		/fuellFarbe schwarz def
+		0 2 2 Kreis
+		[-2 -4] [2 -4] [0 2] 3 Polygon 
+	}
+}
+%	\begin{psGebiet}[fuellfarbe=0.7,linienbreite=0.5pt]
+%	\psBezier(0,-8)(5,-3)(8,0)(8,8)
+%	\psBezier(-8,8)(-8,0)(-5,-3)(0,-8)
+%	\end{psGebiet}
+\end{psfigur}
+
+\end{document}

@@ -1,0 +1,49 @@
+\input BaTeX.tex
+
+\PapierGroesse(100pt,100pt)
+
+\begin{document}
+
+\vskip-22pt
+\hskip-72pt
+\begin{psfigur}[clip=nein,rahmen=nein](50,50)
+\psManuell{%
+/fuellStil 1 def
+/linienBreite 0.5 def
+Schliesse
+% Haar
+/fuellFarbe [0.8392 0.7294 0.4471] def
+{
+	[12 50] [22 55] [55 70] [55 80]  Bezier
+	[1 35] [50 35] 1 LinienZug
+	[49 99] [10 99] [-1 75] [1 35] Bezier
+	[99 35] [101 75] [80 99] [49 99] Bezier
+	[50 35] [99 35] 1 LinienZug
+} Weg
+% Gesicht
+/fuellFarbe [0.9843 0.9333 0.9098] def
+{
+	[12 50] [22 55] [55 70] [55 80]  Bezier
+	[50 2] [36 2] [12 30] [12 50] Bezier 
+	[88 55] [88 35] [64 2] [50 2] Bezier 
+	[55 80] [65 80] [88 65] [88 55] Bezier
+} Weg
+% Augen
+/fuellFarbe schwarz def
+37 48 2.4 Kreis
+63 48 2.4 Kreis
+Automatisch
+/linienBreite 0.8 def
+37 33 26 75 105 KreisBogen
+63 33 26 75 105 KreisBogen
+%Mund
+/linienBreite 0.6 def
+50 30 11 250 290 KreisBogen
+50 10 11 70 110 KreisBogen
+[44 30] [44 35] [44 35] [48 45] Bezier
+[50 27] [46 27] [44 29] [44 30] Bezier
+[54 29] [53 28] [52 27] [50 27] Bezier
+}%
+\end{psfigur}
+
+\end{document}

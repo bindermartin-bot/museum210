@@ -1,0 +1,29 @@
+\input BaTeX.tex
+
+\PapierGroesse(70pt,70pt)
+
+\modul{ean,pstex}
+\parskip=0pt
+\begin{document}
+\psSetze{linienstil=}
+\begin{psfigur}(68,68)
+\psPin(0,0){
+\psSetze{fuellfarbe=0.5,linienstil=}
+\psPolygon(0,0)(68,0)(68,4)(0,4)
+\psPolygon(2,4.5)(66,4.5)(66,8)(2,8)
+\psMultipin(13,8.5)(14,0){4}{%
+	\psPolygon(-4,0)(4,0)(4,1)(-4,1)
+	\psPolygon(-3,1.5)(3,1.5)(3,30)(-3,30)
+	\psPolygon(-4,30.5)(4,30.5)(4,31.5)(-4,31.5)
+}
+\psPolygon(4,40.5)(64,40.5)(64,44)(4,44)
+\psPolygon(2,44.5)(66,44.5)(66,47)(2,47)
+\psPolygon(3,47.5)(65,47.5)(34,62)
+\psKreis[farbe=1,linienstil=-,linienbreite=0.5](34,54){5}
+}
+\psNeueSchicht
+\rpin[pos=c](34,54){\skal[0.8]{\frb{weiss}{\$}}}
+\end{psfigur}
+
+
+\end{document}
