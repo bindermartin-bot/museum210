@@ -1,0 +1,109 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=etex 2018.6.7)  1 OCT 2024 20:46
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**Kreditkarte.tex
+(./Kreditkarte.tex (/Users/michaelbarot/usr/texmf/tex/plain/BaTeX.tex
+(/Users/michaelbarot/usr/texmf/tex/plain/BBTeX.tex
+(/Users/michaelbarot/usr/texmf/tex/plain/base/opt.tex) (/Users/michaelbarot/usr
+/texmf/tex/plain/base/rwk.tex
+\rw@z=\count27
+) (/Users/michaelbarot/usr/texmf/tex/plain/schrift/font.tex
+\mbffam=\fam8
+\mbfsymfam=\fam9
+\mbfsyxfam=\fam10
+\ttglue=\skip18
+\schrift@nummer=\count28
+) (/Users/michaelbarot/usr/texmf/tex/plain/schrift/math.def) (/Users/michaelbar
+ot/usr/texmf/tex/plain/base/base.tex
+\kapitel@nr=\count29
+\sek@nr=\count30
+\subsek@nr=\count31
+\ssubsek@nr=\count32
+\abschn@nr=\count33
+) (/Users/michaelbarot/usr/texmf/tex/plain/base/dok.tex
+\label@art=\count34
+\ref@datei=\write0
+\toc@sep=\dimen16
+\toc@datei=\write1
+\hyp@z=\count35
+\fussnt@nr=\count36
+\tmp@fn=\count37
+\fnt@boxstufe=\count38
+) (/Users/michaelbarot/usr/texmf/tex/plain/ps+pdf/ps+pdf.tex (/Users/michaelbar
+ot/usr/texmf/tex/plain/ps+pdf/ps.tex
+\@datei=\read1
+)) (/Users/michaelbarot/usr/texmf/tex/plain/base/mac.tex
+\ttglue=\skip19
+\anz@Haeuschen=\count39
+\gitter@wd=\dimen17
+\anz@gitterzeilen=\count40
+\gitter@dim=\dimen18
+) (/Users/michaelbarot/usr/texmf/tex/plain/base/list.tex
+\item@box=\box16
+\liste@indent=\dimen19
+\list@skip=\skip20
+\listen@nummer=\count41
+\listen@subnum=\count42
+\listen@nummer@box=\count43
+) (/Users/michaelbarot/usr/texmf/tex/plain/makros/pin.tex
+\pin@box=\box17
+) (/Users/michaelbarot/usr/texmf/tex/plain/schrift/AMSsymbole.tex
+\msafam=\fam11
+\msbfam=\fam12
+) (/Users/michaelbarot/usr/texmf/tex/plain/symb/pssymb.tex) (/Users/michaelbaro
+t/usr/texmf/tex/plain/makros/tafel.tex
+\tf@n=\count44
+\tf@bx=\count45
+\TA@num=\count46
+\tf@t=\toks13
+) (/Users/michaelbarot/usr/texmf/tex/plain/ps+pdf/psfig.tex
+\ps@z=\count47
+\psvar@a=\count48
+\ps@einheit=\dimen20
+\ps@gebct=\count49
+) (/Users/michaelbarot/usr/texmf/tex/plain/makros/math.tex
+\L@breite=\dimen21
+\L@flagge=\count50
+\GLnummer=\count51
+\pot@stufe=\count52
+\pot@rek@nr=\count53
+\pot@h=\dimen22
+)
+) (/Users/michaelbarot/usr/texmf/tex/plain/makros/abb.tex
+\bild@=\box18
+\bild@abb=\box19
+\Leg@=\box20
+\text@box=\box21
+\FGnummer=\count54
+\text@breite=\dimen23
+\pruef@datei=\read2
+\@pfad=\toks14
+\abbleg@toks=\toks15
+)
+(/Users/michaelbarot/usr/texmf/tex/plain/layout/aufBa.tex
+\AufgabeCount=\count55
+\aufindent=\dimen24
+\lsg@datei=\write2
+)
+(/Users/michaelbarot/usr/texmf/tex/plain/layout/cfgBa.tex
+(/Users/michaelbarot/usr/texmf/tex/plain/schrift/font-12pt.tex
+\ME=\dimen25
+)))
+(/Users/michaelbarot/usr/texmf/tex/plain/module/ean.tex)
+(/Users/michaelbarot/usr/texmf/tex/plain/module/pstex.tex
+(/Users/michaelbarot/usr/texmf/tex/plain/logos.tex)
+\m@ustr=\box22
+) (./Kreditkarte.ref)
+\openout0 = `Kreditkarte.ref'.
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+
+\hbox(8.5+0.0)x64.0
+.\vbox(8.5+0.0)x0.0
+
+[1] )
+Output written on Kreditkarte.dvi (1 page, 7428 bytes).

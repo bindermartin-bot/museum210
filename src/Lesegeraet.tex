@@ -1,0 +1,39 @@
+\input BaTeX.tex
+
+\PapierGroesse(66pt,100pt)
+
+\modul{ean,pstex}
+\parskip=0pt
+\begin{document}
+\psSetze{linienstil=}
+\begin{psfigur}(64,98)
+\psPin(0,0){
+\psCode{0.1 setflat}
+\psPolygon[fuellfarbe=0.3,eckradius=4,linienstil=](6,1)(58,1)(64,50)(64,85)(62,98)(2,98)(0,85)(0,50)
+\psPolygon[fuellfarbe=0.7:0.9:0.8,linienstil=](6,52)(58,52)(58,79)(6,79)
+\psMultipin(15,14)(12,0){3}{%
+	\psMultipin(0,0)(0,9){4}{%
+		\psPolygon[fuellfarbe=0.8,eckradius=1.5,linienstil=](0,0)(10,0)(10,7)(0,7)
+	}
+}
+\psPin(15,5){
+	\psPolygon[fuellfarbe=0.9:0.2:0.2,eckradius=1.5,linienstil=](0,0)(10,0)(10,7)(0,7)
+}
+\psPin(27,5){
+	\psPolygon[fuellfarbe=0.9:0.9:0.2,eckradius=1.5,linienstil=](0,0)(10,0)(10,7)(0,7)
+}
+\psPin(39,5){
+	\psPolygon[fuellfarbe=0.2:0.9:0.2,eckradius=1.5,linienstil=](0,0)(10,0)(10,7)(0,7)
+}
+\psPin(30,88){
+	\psSetze{linienrand=c,farbe=0.9,linienbreite=2,linienstil=-}
+	\psKreisbogen[farbe=0.9,linienbreite=1.25,linienstil=-](0,0){1.5}(-45,45)
+	\psKreisbogen[farbe=0.9,linienbreite=1.25,linienstil=-](0,0){4}(-45,45)
+	\psKreisbogen[farbe=0.9,linienbreite=1.25,linienstil=-](0,0){6.5}(-45,45)
+	\psKreisbogen[farbe=0.9,linienbreite=1.25,linienstil=-](0,0){9}(-45,45)
+}
+}
+\end{psfigur}
+
+
+\end{document}

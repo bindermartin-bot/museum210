@@ -1,0 +1,135 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=latex 2018.6.7)  26 JUN 2026 13:27
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**SF-Test.tex
+(./SF-Test.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/Users/michaelbarot/usr/texmf/tex/plain/BaTeX.tex
+(/Users/michaelbarot/usr/texmf/tex/plain/BBtex/BBTeX.tex
+(/Users/michaelbarot/usr/texmf/tex/plain/BBtex/latex-mac.cls
+\itfam=\mathgroup4
+\slfam=\mathgroup5
+\bffam=\mathgroup6
+\ttfam=\mathgroup7
+\pageno=\count80
+\headline=\toks14
+\footline=\toks15
+)
+(/Users/michaelbarot/usr/texmf/tex/plain/BBtex/bgtex-Ltx.tex
+\rw@z=\count81
+\mbffam=\mathgroup8
+\mbfsymfam=\mathgroup9
+\mbfsyxfam=\mathgroup10
+\ttglue=\skip41
+\schrift@nummer=\count82
+\kapitel@nr=\count83
+\sek@nr=\count84
+\subsek@nr=\count85
+\ssubsek@nr=\count86
+\abschn@nr=\count87
+\label@art=\count88
+\ref@datei=\write3
+\toc@sep=\dimen102
+\toc@datei=\write4
+\hyp@z=\count89
+\fussnt@nr=\count90
+\tmp@fn=\count91
+\fnt@boxstufe=\count92
+\@datei=\read1
+\ttglue=\skip42
+\anz@Haeuschen=\count93
+\gitter@wd=\dimen103
+\anz@gitterzeilen=\count94
+\gitter@dim=\dimen104
+\item@box=\box26
+\liste@indent=\dimen105
+\list@skip=\skip43
+\listen@nummer=\count95
+\listen@subnum=\count96
+\listen@nummer@box=\count97
+\pin@box=\box27
+\msafam=\mathgroup11
+\msbfam=\mathgroup12
+\ps@z=\count98
+\psvar@a=\count99
+\ps@einheit=\dimen106
+\ps@gebct=\count100
+\L@breite=\dimen107
+\L@flagge=\count101
+\GLnummer=\count102
+\pot@stufe=\count103
+\pot@rek@nr=\count104
+\pot@h=\dimen108
+\bild@=\box28
+\bild@abb=\box29
+\Leg@=\box30
+\text@box=\box31
+\FGnummer=\count105
+\text@breite=\dimen109
+\pruef@datei=\read2
+\@pfad=\toks16
+\abbleg@toks=\toks17
+\tf@n=\count106
+\tf@bx=\count107
+\TA@num=\count108
+\tf@t=\toks18
+))
+(/Users/michaelbarot/usr/texmf/tex/plain/layout/aufBa.tex
+\AufgabeCount=\count109
+\aufindent=\dimen110
+\lsg@datei=\write5
+)
+(/Users/michaelbarot/usr/texmf/tex/plain/layout/cfgBa.tex
+(/Users/michaelbarot/usr/texmf/tex/plain/schrift/font-12pt.tex
+\ME=\dimen111
+))
+(/Users/michaelbarot/usr/texmf/tex/plain/layout/makrosBa.tex)) (./SF-Test.aux)
+\openout1 = `SF-Test.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+
+(./SF-Test.ref)
+\openout3 = `SF-Test.ref'.
+
+ 
+**************************************
+ 
+ ACHTUNG: LATEX!!!!
+ 
+**************************************
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 5.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[1] (./SF-Test.aux) ) 
+Here is how much of TeX's memory you used:
+ 2673 strings out of 492650
+ 24994 string characters out of 6129649
+ 122963 words of memory out of 5000000
+ 6452 multiletter control sequences out of 15000+600000
+ 115553 words of font info for 256 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 22i,7n,61p,273b,180s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on SF-Test.dvi (1 page, 3532 bytes).
